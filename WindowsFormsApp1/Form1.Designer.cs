@@ -758,7 +758,7 @@
             this.labelstar.AutoSize = true;
             this.labelstar.BackColor = System.Drawing.Color.White;
             this.labelstar.Font = new System.Drawing.Font("Microsoft Sans Serif", 24F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
-            this.labelstar.Location = new System.Drawing.Point(538, 46);
+            this.labelstar.Location = new System.Drawing.Point(535, 46);
             this.labelstar.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
             this.labelstar.Name = "labelstar";
             this.labelstar.Size = new System.Drawing.Size(29, 37);
